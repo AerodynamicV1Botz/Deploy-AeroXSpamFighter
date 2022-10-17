@@ -1,8 +1,8 @@
-# Deploy-AeroXSpamFighter
+# Aero ✘ Spam Fighter~[🇮🇳]
 </p>
 <p align="center"><a href="https://t.me/AerodynamicV1Botz"><img src="https://te.legra.ph/file/4a03839732a7888aa6a55.jpg"></a></p>
 
- A Simple Sh For deploying [👮SpamFighterAerobot~[🇮🇳]](https://t.me/SpamFighterAerobot)
+ A Simple Sh For deploying [Aero✘Spam Fighter~[🇮🇳]](https://t.me/SpamFighterAerobot)
 
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
@@ -26,7 +26,7 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [SpamFighterAerobot](https://t.me/SpamFighter_Aerobot) 」
+╘══「 Can be found on telegram as [Aero✘Spam Fighter~[🇮🇳]](https://t.me/SpamFighter_Aerobot) 」
 
 
 ![AerodynamicV1~🇮🇳](https://telegra.ph//file/2a8e42a346478715b197f.jpg)
